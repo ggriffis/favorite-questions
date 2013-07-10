@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  text: MyString
+  date: 2013-07-09
+  topic: MyString
+  importance: 1
+  expect_answer: false
+
+two:
+  text: MyString
+  date: 2013-07-09
+  topic: MyString
+  importance: 1
+  expect_answer: false
