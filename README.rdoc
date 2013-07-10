@@ -1,3 +1,5 @@
+This app will allow you to enter and view your favorite questions.  Perhaps a later iteration will allow answers to be associated with these questions.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
